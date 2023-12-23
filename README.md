@@ -15,7 +15,7 @@ This Python script generates a head-to-head matrix from the given JSON data, dis
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/head-to-head-matrix.git
+    git clone https://github.com/vishnu-vasan/Sports-Reference-Summer-Intern-Engineering_Prompt.git
     cd Sports-Reference-Summer-Intern-Engineering_Prompt
     ```
 
